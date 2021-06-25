@@ -1,0 +1,49 @@
+.heading{
+    font-size: 23px;
+    margin: 0;
+    width: 100%;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+body{
+    background-size: cover;
+    background-image: url("https://media1.giphy.com/media/B2trXQNsHpV2use87y/giphy.gif");
+}
+.div_speed{
+    float: left;
+
+}
+.div_speed_image{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+.div_volume{
+    float: right;
+
+}
+.div_volume_image{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+.play_button{
+    width: 130px;
+    font-size: 25px;
+    display: inline;
+}
+canvas{
+    margin-top: 300px;
+    margin-bottom: 50px;
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+    
+}
